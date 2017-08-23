@@ -1,0 +1,25 @@
+{
+  "name": "react-native-refresh-infinite-list",
+  "version": "1.0.0",
+  "description": "A List component that can do pull to refresh and infinite scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarvisluong/react-native-refresh-infinite-list.git"
+  },
+  "keywords": [
+    "react-native",
+    "listview",
+    "refresh",
+    "list"
+  ],
+  "author": "Luong Dang Hai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarvisluong/react-native-refresh-infinite-list/issues"
+  },
+  "homepage": "https://github.com/jarvisluong/react-native-refresh-infinite-list#readme"
+}
