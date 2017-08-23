@@ -3,6 +3,9 @@ A awesome pull-down-refresh and pull-up-loadmore listview
 
 This is an updated version of this repo with ES6 Class component: https://github.com/remobile/react-native-refresh-infinite-listview
 
+## Todo
+* Migrate to FlatList component
+
 ## Installation
 ```sh
 npm install react-native-refresh-infinite-list  --save
